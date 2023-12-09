@@ -51,5 +51,3 @@
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
-<hr>
