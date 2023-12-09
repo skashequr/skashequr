@@ -24,7 +24,7 @@
 <h3 align="center">Tecnology I know</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,html,css,materialui,js,firebase,express,mongodb,py,react,tailwind" />
   </a>
 </p>
 <h2 align="center"> 🔭 Tools of Trade</h2>
