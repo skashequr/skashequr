@@ -35,9 +35,7 @@
 </p>
 <p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
 
-<hr>
-<hr>
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={skashequr}&theme={github}&exclude={js}
+
 <hr>
 <h2 align="center">💬 My Blog Articles</h2>
 <p align="center" align='right'>
