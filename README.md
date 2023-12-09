@@ -17,7 +17,7 @@
 </p>
 
 <hr>
-
+<h1 align="center"> GitHub Readme Streak Stats</h1>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skashequr&border_radius=5.5&card_width=1100&hide_total_contributions=true)](https://git.io/streak-stats)
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
