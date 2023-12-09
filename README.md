@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+  <img src="https://github.com/skashequr/Employ-Management-fontend/blob/main/header(1).gif" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
@@ -13,7 +13,7 @@
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/skashequr" />
 </p>
 
 <hr>
