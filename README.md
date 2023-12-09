@@ -30,8 +30,7 @@
 <p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
 
 <hr>
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
-<hr>
+
 <h2 align="center">💬 My Blog Articles</h2>
 <p align="center" align='right'>
   <a target="_blank"href=""><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
@@ -50,3 +49,7 @@
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+<hr>
