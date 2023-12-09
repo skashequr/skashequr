@@ -13,9 +13,9 @@
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over six month of computing experience, possessing expert knowledge of the fontend development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
   <br> <br>
-  
+  <h1 align="center"> GitHub Readme Streak Stats</h1>
 </p>
-<h1 align="center"> GitHub Readme Streak Stats</h1>
+
 <hr>
 
 
