@@ -18,6 +18,8 @@
 
 <hr>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skashequr&border_radius=5.5&card_width=600&hide_total_contributions=true)](https://git.io/streak-stats)
+
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
