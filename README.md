@@ -44,8 +44,8 @@
 </p>
 
 <hr>
-| <a href="https://github.com/skashequr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/skashequr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skashequr&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/skashequr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=skashequr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/skashequr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skashequr&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
