@@ -37,7 +37,7 @@
 
 <hr>
 <hr>
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={skashequr}&theme={github}&exclude=JavaScript,Python,C++
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={skashequr}&theme={github}&exclude={JavaScript,Python,C++}
 <hr>
 <h2 align="center">💬 My Blog Articles</h2>
 <p align="center" align='right'>
