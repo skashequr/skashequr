@@ -21,6 +21,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skashequr&border_radius=5.5&card_width=1100&hide_total_contributions=true)](https://git.io/streak-stats)
 
+<h3 align="center">Tecnology I know</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
